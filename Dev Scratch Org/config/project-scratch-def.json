@@ -1,0 +1,16 @@
+{
+  "orgName": "Scratch Org Demo",
+  "edition": "Developer",
+  "adminEmail": "abdallammohd@gmail.com",
+  "description": "this org is created for scratch org",
+  "hasSampleData": "true",
+  "features": [],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
