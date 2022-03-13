@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "orgName": "Scratch yyy Demo",
-  "edition": "Developer",
+=======
+  "orgName": "Scratch xxx Demo",
+>>>>>>> refs/remotes/origin/test
+"orgName": "Scratch zzz Demo",
+"edition": "Developer",
   "adminEmail": "abdallammohd@gmail.com",
   "description": "this org is created for scratch org",
   "hasSampleData": "true",
